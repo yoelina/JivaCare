@@ -1,0 +1,51 @@
+Diagnosis,Diagnosa_Utama_ICD10,Diagnosa_Sekunder,Kode_INA_CBG
+Depresi Mayor,F32.2,G47.0; E11.9,F.4.11.I
+Skizofrenia,F20.0,E78.5; G47.0,F.4.14.II
+Depresi Mayor,F32.2,E78.5; K29.7,F.4.13.I
+Skizofrenia,F20.0,E11.9; G47.0,F.4.10.I
+Gangguan Bipolar,F31.2,E86.0; E86.0,F.4.14.II
+Depresi Mayor,F32.2,I10; E78.5,F.4.11.I
+Gangguan Bipolar,F31.2,K29.7; K29.7,F.4.13.I
+Depresi Mayor,F32.2,E11.9; E86.0,F.4.14.II
+Psikosis Akut,F23.0,E11.9; E86.0,F.4.10.I
+Gangguan Ansietas,F41.1,E86.0; E86.0,F.4.10.I
+Psikosis Akut,F23.0,K29.7; E11.9,F.4.13.I
+Gangguan Bipolar,F31.2,I10; E78.5,F.4.14.II
+Gangguan Ansietas,F41.1,I10; E11.9,F.4.13.I
+Depresi Mayor,F32.2,G47.0; I10,F.4.15.I
+Psikosis Akut,F23.0,E78.5; I10,F.4.13.I
+Gangguan Ansietas,F41.1,E86.0; E86.0,F.4.10.I
+Psikosis Akut,F23.0,E86.0; I10,F.4.13.I
+Gangguan Ansietas,F41.1,G47.0; E11.9,F.4.13.I
+Gangguan Bipolar,F31.2,E78.5; E86.0,F.4.10.I
+Psikosis Akut,F23.0,E78.5; E78.5,F.4.14.II
+Depresi Mayor,F32.2,E11.9; E11.9,F.4.15.I
+Psikosis Akut,F23.0,I10; K29.7,F.4.13.I
+Gangguan Bipolar,F31.2,E78.5; E78.5,F.4.10.I
+Depresi Mayor,F32.2,G47.0; E78.5,F.4.10.II
+Psikosis Akut,F23.0,K29.7; I10,F.4.15.I
+Skizofrenia,F20.0,E78.5; E11.9,F.4.13.I
+Gangguan Bipolar,F31.2,G47.0; I10,F.4.10.I
+Gangguan Bipolar,F31.2,I10; K29.7,F.4.14.II
+Gangguan Ansietas,F41.1,I10; G47.0,F.4.14.II
+Gangguan Bipolar,F31.2,I10; E11.9,F.4.13.I
+Depresi Mayor,F32.2,K29.7; G47.0,F.4.15.I
+Skizofrenia,F20.0,E78.5; K29.7,F.4.15.I
+Psikosis Akut,F23.0,I10; K29.7,F.4.14.II
+Depresi Mayor,F32.2,G47.0; E78.5,F.4.10.II
+Gangguan Bipolar,F31.2,E78.5; K29.7,F.4.14.II
+Gangguan Bipolar,F31.2,I10; I10,F.4.11.I
+Gangguan Ansietas,F41.1,I10; E78.5,F.4.10.II
+Gangguan Bipolar,F31.2,E78.5; G47.0,F.4.10.II
+Depresi Mayor,F32.2,I10; K29.7,F.4.14.II
+Skizofrenia,F20.0,E78.5; E86.0,F.4.14.II
+Gangguan Bipolar,F31.2,E11.9; E11.9,F.4.10.I
+Depresi Mayor,F32.2,K29.7; E11.9,F.4.14.II
+Psikosis Akut,F23.0,I10; K29.7,F.4.11.I
+Psikosis Akut,F23.0,G47.0; G47.0,F.4.15.I
+Gangguan Ansietas,F41.1,I10; E86.0,F.4.11.I
+Psikosis Akut,F23.0,E78.5; I10,F.4.13.I
+Gangguan Bipolar,F31.2,E86.0; E86.0,F.4.14.II
+Depresi Mayor,F32.2,I10; G47.0,F.4.14.II
+Gangguan Bipolar,F31.2,G47.0; E78.5,F.4.11.I
+Gangguan Bipolar,F31.2,I10; E11.9,F.4.13.I
