@@ -1,0 +1,4366 @@
+[
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Ahmad",
+      "Fauzi"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "24667"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Pneumonia"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Ahmad",
+      "Fauzi,",
+      "Sp.PD"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Siti",
+      "Aminah"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "37057"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Demam",
+      "Berdarah",
+      "Dengue"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Dewi",
+      "Lestari,",
+      "Sp.OG"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Haura",
+      "Firdaus"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "53732"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Tuberkulosis",
+      "Paru"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Hendra",
+      "Kurnia,",
+      "Sp.N"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Lulu",
+      "Azura"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "74360"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Fraktur",
+      "Femur"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Dewi",
+      "Lestari,",
+      "Sp.OG"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Haura",
+      "Firdaus"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "11381"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Diabetes",
+      "Mellitus",
+      "Tipe",
+      "2"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Ahmad",
+      "Fauzi,",
+      "Sp.PD"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Lulu",
+      "Azura"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "19576"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Hipertensi",
+      "Esensial"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Ahmad",
+      "Fauzi,",
+      "Sp.PD"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Windy",
+      "Meisya"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "22553"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Hipertensi",
+      "Esensial"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Rina",
+      "Wulandari,",
+      "Sp.JP"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Ahmad",
+      "Fauzi"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "70303"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Infeksi",
+      "Saluran",
+      "Kemih"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Budi",
+      "Santoso,",
+      "Sp.B"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Siti",
+      "Aminah"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "44729"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Demam",
+      "Berdarah",
+      "Dengue"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Hendra",
+      "Kurnia,",
+      "Sp.N"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Raden",
+      "Yasminenur"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "87588"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Pneumonia"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Hendra",
+      "Kurnia,",
+      "Sp.N"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Hendra",
+      "Kurnia"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "48635"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Demam",
+      "Berdarah",
+      "Dengue"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Budi",
+      "Santoso,",
+      "Sp.B"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Dewi",
+      "Lestari"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "27127"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Demam",
+      "Berdarah",
+      "Dengue"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Hendra",
+      "Kurnia,",
+      "Sp.N"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Hendra",
+      "Kurnia"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "44441"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Stroke",
+      "Iskemik"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Ahmad",
+      "Fauzi,",
+      "Sp.PD"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Siti",
+      "Aminah"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "84522"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Demam",
+      "Berdarah",
+      "Dengue"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Rina",
+      "Wulandari,",
+      "Sp.JP"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Siti",
+      "Aminah"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "35539"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Stroke",
+      "Iskemik"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Hendra",
+      "Kurnia,",
+      "Sp.N"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Dewi",
+      "Lestari"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "43700"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Gastroenteritis",
+      "Akut"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Dewi",
+      "Lestari,",
+      "Sp.OG"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Raden",
+      "Yasminenur"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "78158"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Hipertensi",
+      "Esensial"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Budi",
+      "Santoso,",
+      "Sp.B"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Windy",
+      "Meisya"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "50152"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Gastroenteritis",
+      "Akut"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Ahmad",
+      "Fauzi,",
+      "Sp.PD"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Siti",
+      "Aminah"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "53920"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Hipertensi",
+      "Esensial"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Dewi",
+      "Lestari,",
+      "Sp.OG"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Lulu",
+      "Azura"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "88673"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Stroke",
+      "Iskemik"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Dewi",
+      "Lestari,",
+      "Sp.OG"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Rina",
+      "Wulandari"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "50749"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Infeksi",
+      "Saluran",
+      "Kemih"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Ahmad",
+      "Fauzi,",
+      "Sp.PD"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Siti",
+      "Aminah"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "33783"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Gastroenteritis",
+      "Akut"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Ahmad",
+      "Fauzi,",
+      "Sp.PD"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Hendra",
+      "Kurnia"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "76547"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Demam",
+      "Berdarah",
+      "Dengue"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Rina",
+      "Wulandari,",
+      "Sp.JP"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Dewi",
+      "Lestari"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "21231"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Hipertensi",
+      "Esensial"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Dewi",
+      "Lestari,",
+      "Sp.OG"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Windy",
+      "Meisya"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "45410"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Infeksi",
+      "Saluran",
+      "Kemih"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Budi",
+      "Santoso,",
+      "Sp.B"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Dewi",
+      "Lestari"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "98596"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Infeksi",
+      "Saluran",
+      "Kemih"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Rina",
+      "Wulandari,",
+      "Sp.JP"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Budi",
+      "Santoso"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "24897"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Gastroenteritis",
+      "Akut"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Hendra",
+      "Kurnia,",
+      "Sp.N"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Siti",
+      "Aminah"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "82555"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Demam",
+      "Berdarah",
+      "Dengue"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Ahmad",
+      "Fauzi,",
+      "Sp.PD"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Raden",
+      "Yasminenur"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "11438"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Diabetes",
+      "Mellitus",
+      "Tipe",
+      "2"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Rina",
+      "Wulandari,",
+      "Sp.JP"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Budi",
+      "Santoso"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "57646"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Diabetes",
+      "Mellitus",
+      "Tipe",
+      "2"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Rina",
+      "Wulandari,",
+      "Sp.JP"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Hendra",
+      "Kurnia"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "97654"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Infeksi",
+      "Saluran",
+      "Kemih"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Ahmad",
+      "Fauzi,",
+      "Sp.PD"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Ahmad",
+      "Fauzi"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "68647"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Tuberkulosis",
+      "Paru"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Dewi",
+      "Lestari,",
+      "Sp.OG"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Haura",
+      "Firdaus"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "17804"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Gastroenteritis",
+      "Akut"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Siti",
+      "Rahayu,",
+      "Sp.A"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Siti",
+      "Aminah"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "52656"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Tuberkulosis",
+      "Paru"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Dewi",
+      "Lestari,",
+      "Sp.OG"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Hendra",
+      "Kurnia"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "59855"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Tuberkulosis",
+      "Paru"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Siti",
+      "Rahayu,",
+      "Sp.A"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Hendra",
+      "Kurnia"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "73074"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Tuberkulosis",
+      "Paru"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Dewi",
+      "Lestari,",
+      "Sp.OG"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Dewi",
+      "Lestari"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "45657"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Fraktur",
+      "Femur"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Rina",
+      "Wulandari,",
+      "Sp.JP"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Raden",
+      "Yasminenur"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "22498"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Fraktur",
+      "Femur"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Budi",
+      "Santoso,",
+      "Sp.B"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Hendra",
+      "Kurnia"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "60533"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Stroke",
+      "Iskemik"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Rina",
+      "Wulandari,",
+      "Sp.JP"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Lulu",
+      "Azura"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "75354"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Diabetes",
+      "Mellitus",
+      "Tipe",
+      "2"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Dewi",
+      "Lestari,",
+      "Sp.OG"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Lulu",
+      "Azura"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "97614"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Stroke",
+      "Iskemik"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Budi",
+      "Santoso,",
+      "Sp.B"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Windy",
+      "Meisya"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "96236"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Pneumonia"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Ahmad",
+      "Fauzi,",
+      "Sp.PD"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Haura",
+      "Firdaus"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "83348"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Demam",
+      "Berdarah",
+      "Dengue"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Ahmad",
+      "Fauzi,",
+      "Sp.PD"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Haura",
+      "Firdaus"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "72614"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Pneumonia"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Ahmad",
+      "Fauzi,",
+      "Sp.PD"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Dewi",
+      "Lestari"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "86714"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Pneumonia"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Budi",
+      "Santoso,",
+      "Sp.B"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Budi",
+      "Santoso"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "92386"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Diabetes",
+      "Mellitus",
+      "Tipe",
+      "2"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Hendra",
+      "Kurnia,",
+      "Sp.N"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Raden",
+      "Yasminenur"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "25332"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Stroke",
+      "Iskemik"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Budi",
+      "Santoso,",
+      "Sp.B"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Haura",
+      "Firdaus"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "70679"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Infeksi",
+      "Saluran",
+      "Kemih"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Ahmad",
+      "Fauzi,",
+      "Sp.PD"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Siti",
+      "Aminah"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "54196"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Demam",
+      "Berdarah",
+      "Dengue"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Ahmad",
+      "Fauzi,",
+      "Sp.PD"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Haura",
+      "Firdaus"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "48321"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Fraktur",
+      "Femur"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Ahmad",
+      "Fauzi,",
+      "Sp.PD"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Haura",
+      "Firdaus"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "28486"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Demam",
+      "Berdarah",
+      "Dengue"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Ahmad",
+      "Fauzi,",
+      "Sp.PD"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Windy",
+      "Meisya"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "26200"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Appendisitis",
+      "Akut"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Hendra",
+      "Kurnia,",
+      "Sp.N"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Dewi",
+      "Lestari"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "71101"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Appendisitis",
+      "Akut"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Rina",
+      "Wulandari,",
+      "Sp.JP"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Siti",
+      "Aminah"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "35714"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Fraktur",
+      "Femur"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Ahmad",
+      "Fauzi,",
+      "Sp.PD"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Haura",
+      "Firdaus"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "30914"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Pneumonia"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Dewi",
+      "Lestari,",
+      "Sp.OG"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Ahmad",
+      "Fauzi"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "30353"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Hipertensi",
+      "Esensial"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Rina",
+      "Wulandari,",
+      "Sp.JP"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Raden",
+      "Yasminenur"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "14595"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Hipertensi",
+      "Esensial"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Rina",
+      "Wulandari,",
+      "Sp.JP"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Dewi",
+      "Lestari"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "39364"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Diabetes",
+      "Mellitus",
+      "Tipe",
+      "2"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Siti",
+      "Rahayu,",
+      "Sp.A"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Budi",
+      "Santoso"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2024",
+      "82623"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Hipertensi",
+      "Esensial"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Hendra",
+      "Kurnia,",
+      "Sp.N"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  },
+  {
+    "tokens": [
+      "Nama",
+      "Pasien",
+      ":",
+      "Ahmad",
+      "Fauzi"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-NAMA_PASIEN",
+      "I-NAMA_PASIEN"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "Rekam",
+      "Medis",
+      ":",
+      "RM",
+      "2023",
+      "94984"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-NO_RM",
+      "I-NO_RM",
+      "I-NO_RM"
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "Appendisitis",
+      "Akut"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-DIAGNOSIS",
+      "I-DIAGNOSIS"
+    ]
+  },
+  {
+    "tokens": [
+      "Dokter",
+      "Penanggung",
+      "Jawab",
+      ":",
+      "Dr.",
+      "Siti",
+      "Rahayu,",
+      "Sp.A"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER",
+      "I-DOKTER"
+    ]
+  }
+]

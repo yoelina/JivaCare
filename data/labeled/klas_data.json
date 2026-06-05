@@ -1,0 +1,2002 @@
+[
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Gastroenteritis Akut",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Gastroenteritis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Tuberkulosis Paru",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Tuberkulosis Paru",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Rina Wulandari | Diagnosis: Infeksi Saluran Kemih",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Budi Santoso | Diagnosis: Pneumonia",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Ahmad Fauzi | Diagnosis: Gastroenteritis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Pneumonia",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Budi Santoso | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Gastroenteritis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Lulu Azura | Diagnosis: Pneumonia",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Raden Yasminenur | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Budi Santoso | Diagnosis: Gastroenteritis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Infeksi Saluran Kemih",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Raden Yasminenur | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Rina Wulandari | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Budi Santoso | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Ahmad Fauzi | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Tuberkulosis Paru",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Budi Santoso | Diagnosis: Infeksi Saluran Kemih",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Infeksi Saluran Kemih",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Raden Yasminenur | Diagnosis: Tuberkulosis Paru",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Raden Yasminenur | Diagnosis: Stroke Iskemik",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Lulu Azura | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Raden Yasminenur | Diagnosis: Stroke Iskemik",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Lulu Azura | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Infeksi Saluran Kemih",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Lulu Azura | Diagnosis: Gastroenteritis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Lulu Azura | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Budi Santoso | Diagnosis: Tuberkulosis Paru",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Gastroenteritis Akut",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Pneumonia",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Infeksi Saluran Kemih",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Raden Yasminenur | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Tuberkulosis Paru",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Infeksi Saluran Kemih",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Lulu Azura | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Ahmad Fauzi | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Lulu Azura | Diagnosis: Stroke Iskemik",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Lulu Azura | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Lulu Azura | Diagnosis: Tuberkulosis Paru",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Lulu Azura | Diagnosis: Infeksi Saluran Kemih",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Budi Santoso | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Stroke Iskemik",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Raden Yasminenur | Diagnosis: Pneumonia",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Raden Yasminenur | Diagnosis: Stroke Iskemik",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Rina Wulandari | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Infeksi Saluran Kemih",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Gastroenteritis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Raden Yasminenur | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Rina Wulandari | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Budi Santoso | Diagnosis: Stroke Iskemik",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Pneumonia",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Gastroenteritis Akut",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Rina Wulandari | Diagnosis: Tuberkulosis Paru",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Pneumonia",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Pneumonia",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Gastroenteritis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Stroke Iskemik",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Budi Santoso | Diagnosis: Stroke Iskemik",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Ahmad Fauzi | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Lulu Azura | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Tuberkulosis Paru",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Ahmad Fauzi | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Ahmad Fauzi | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Gastroenteritis Akut",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Tuberkulosis Paru",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Rina Wulandari | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Stroke Iskemik",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Raden Yasminenur | Diagnosis: Tuberkulosis Paru",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Lulu Azura | Diagnosis: Stroke Iskemik",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Lulu Azura | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Gastroenteritis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Pneumonia",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Budi Santoso | Diagnosis: Gastroenteritis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Ahmad Fauzi | Diagnosis: Gastroenteritis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Infeksi Saluran Kemih",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Stroke Iskemik",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Rina Wulandari | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Lulu Azura | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Budi Santoso | Diagnosis: Stroke Iskemik",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Stroke Iskemik",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Tuberkulosis Paru",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Infeksi Saluran Kemih",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Raden Yasminenur | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Rina Wulandari | Diagnosis: Stroke Iskemik",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Raden Yasminenur | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Infeksi Saluran Kemih",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Tuberkulosis Paru",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Gastroenteritis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Raden Yasminenur | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Tuberkulosis Paru",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Ahmad Fauzi | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Lulu Azura | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Pneumonia",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Budi Santoso | Diagnosis: Gastroenteritis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Raden Yasminenur | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Infeksi Saluran Kemih",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Ahmad Fauzi | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Pneumonia",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Raden Yasminenur | Diagnosis: Infeksi Saluran Kemih",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Pneumonia",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Rina Wulandari | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Raden Yasminenur | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Raden Yasminenur | Diagnosis: Gastroenteritis Akut",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Stroke Iskemik",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Ahmad Fauzi | Diagnosis: Infeksi Saluran Kemih",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Ahmad Fauzi | Diagnosis: Pneumonia",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Pneumonia",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Hipertensi Esensial",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Pneumonia",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Lulu Azura | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Ahmad Fauzi | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Rina Wulandari | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Pneumonia",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Tuberkulosis Paru",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Budi Santoso | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Stroke Iskemik",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Dewi Lestari | Diagnosis: Pneumonia",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Demam Berdarah Dengue",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Ahmad Fauzi | Diagnosis: Tuberkulosis Paru",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Ahmad Fauzi | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Budi Santoso | Diagnosis: Diabetes Mellitus Tipe 2",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Raden Yasminenur | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Haura Firdaus | Diagnosis: Fraktur Femur",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 0,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Stroke Iskemik",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Siti Aminah | Diagnosis: Appendisitis Akut",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 0,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Windy Meisya | Diagnosis: Stroke Iskemik",
+    "labels": {
+      "hasil_lab": 0,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 0
+    }
+  },
+  {
+    "text": "Pasien: Hendra Kurnia | Diagnosis: Infeksi Saluran Kemih",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 1,
+      "informed_consent": 1,
+      "resume_medis": 1
+    }
+  },
+  {
+    "text": "Pasien: Raden Yasminenur | Diagnosis: Stroke Iskemik",
+    "labels": {
+      "hasil_lab": 1,
+      "resep_obat": 1,
+      "surat_rujukan": 0,
+      "informed_consent": 0,
+      "resume_medis": 0
+    }
+  }
+]
