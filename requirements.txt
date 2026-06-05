@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+openpyxl
+xlrd
+python-dotenv
+pypdf
+python-docx
+transformers
+torch
+scikit-learn
+httpx
