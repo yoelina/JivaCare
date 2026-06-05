@@ -1,0 +1,65 @@
+from transformers import AutoTokenizer, AutoModelForTokenClassification, TrainingArguments, Trainer
+import json
+import torch
+from datasets import Dataset
+
+# Path model base & folder output
+BASE_MODEL = "indobenchmark/indobert-base-p1"
+OUTPUT_DIR = "C:/Users/HP/dashboardpjd/model_ml"
+
+# Load dataset JSON
+with open("C:/Users/HP/dashboardpjd/data/labeled/ner_data.json", "r", encoding="utf-8") as f:
+    data = json.load(f)
+
+# Konversi ke HuggingFace Dataset
+dataset = Dataset.from_list(data)
+
+# Load tokenizer
+tokenizer = AutoTokenizer.from_pretrained(BASE_MODEL)
+
+# Tokenize & align labels
+def tokenize_and_align_labels(ex):
+    tokenized_inputs = tokenizer(ex["tokens"], is_split_into_words=True, truncation=True, padding="max_length", max_length=128)
+    labels = []
+    for i, word_ids in enumerate(tokenized_inputs.word_ids(batch_index=0)):
+        label_ids = []
+        if word_ids is None:
+            label_ids.append(-100)  # ignore token
+        else:
+            label_ids.append(ex["labels"][word_ids])
+        labels.append(label_ids[0])
+    tokenized_inputs["labels"] = labels
+    return tokenized_inputs
+
+tokenized_dataset = dataset.map(tokenize_and_align_labels)
+
+# Load model base
+model = AutoModelForTokenClassification.from_pretrained(BASE_MODEL, num_labels=5)
+
+# Training arguments
+training_args = TrainingArguments(
+    output_dir=OUTPUT_DIR,
+    num_train_epochs=3,
+    per_device_train_batch_size=4,
+    save_steps=500,
+    save_total_limit=2,
+    logging_steps=100,
+    evaluation_strategy="no",
+    learning_rate=5e-5,
+    weight_decay=0.01,
+    report_to="none"
+)
+
+# Trainer
+trainer = Trainer(
+    model=model,
+    args=training_args,
+    train_dataset=tokenized_dataset
+)
+
+# Fine-tune
+trainer.train()
+
+# Simpan model
+model.save_pretrained(OUTPUT_DIR)
+tokenizer.save_pretrained(OUTPUT_DIR)

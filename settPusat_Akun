@@ -1,0 +1,189 @@
+import streamlit as st
+import pandas as pd
+import sqlite3
+
+# ==========================
+# KONEKSI DATABASE
+# ==========================
+# ==========================
+# KONEKSI DATABASE
+# ==========================
+conn = sqlite3.connect("eklaim.db", check_same_thread=False)
+cursor = conn.cursor()
+
+cursor.execute("""
+CREATE TABLE IF NOT EXISTS pusat_akun (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    nama_pengguna TEXT,
+    username TEXT UNIQUE,
+    nip TEXT,
+    jabatan TEXT,
+    email TEXT,
+    no_hp TEXT,
+    status_akun TEXT,
+    password TEXT
+)
+""")
+conn.commit()
+
+# ==========================
+# ISI DATA DUMMY JIKA KOSONG
+# ==========================
+cursor.execute("SELECT COUNT(*) FROM pusat_akun")
+count = cursor.fetchone()[0]
+
+if count == 0:
+    import pandas as pd
+
+    try:
+        df_csv = pd.read_csv("petugas.csv", dtype=str)
+
+        if "nama_karyawan" in df_csv.columns:
+            df_csv = df_csv.rename(columns={"nama_karyawan": "nama_pengguna"})
+
+        kolom_tambahan = {
+            "nip": "",
+            "jabatan": "Casemix",
+            "email": "",
+            "no_hp": "",
+            "status_akun": "Aktif"
+        }
+
+        for kolom, default in kolom_tambahan.items():
+            if kolom not in df_csv.columns:
+                df_csv[kolom] = default
+
+        df_csv = df_csv[
+            ["nama_pengguna", "username", "nip", "jabatan", "email", "no_hp", "status_akun", "password"]
+        ]
+
+        df_csv.to_sql(
+            "pusat_akun",
+            conn,
+            if_exists="replace",
+            index=True,
+            index_label="id"
+        )
+
+        st.success("Database pusat_akun diisi dengan data dummy dari CSV")
+    except FileNotFoundError:
+        st.warning("petugas.csv tidak ditemukan. Tabel pusat_akun tetap kosong")
+
+# ==========================
+# LOAD DATA
+# ==========================
+def load_data():
+    return pd.read_sql("SELECT * FROM pusat_akun", conn)
+# ==========================
+# UI
+# ==========================
+st.title("👤 Pusat Akun")
+
+df = load_data()
+
+tab1, tab2, tab3 = st.tabs([
+    "Lihat Akun",
+    "Tambah Akun",
+    "Edit Akun"
+])
+
+# ==========================
+# TAB 1 - LIHAT
+# ==========================
+with tab1:
+    st.dataframe(df, use_container_width=True)
+
+    col1, col2 = st.columns(2)
+
+    col1.metric("Total Akun", len(df))
+
+    col2.metric(
+        "Akun Aktif",
+        len(df[df["status_akun"] == "Aktif"])
+    )
+
+
+# ==========================
+# TAB 2 - TAMBAH
+# ==========================
+with tab2:
+
+    with st.form("tambah_akun"):
+
+        nama = st.text_input("Nama Pengguna")
+        username = st.text_input("Username")
+        nip = st.text_input("NIP")
+
+        jabatan = st.selectbox(
+            "Jabatan",
+            ["Verifikator RM", "Casemix", "IT"]
+        )
+
+        email = st.text_input("Email")
+        no_hp = st.text_input("Nomor HP")
+
+        status = st.selectbox(
+            "Status Akun",
+            ["Aktif", "Nonaktif"]
+        )
+
+        password = st.text_input(
+            "Password",
+            type="password"
+        )
+
+        submit = st.form_submit_button("Tambah")
+
+        if submit:
+
+            cursor.execute("""
+            INSERT INTO pusat_akun
+            (
+                nama_pengguna,
+                username,
+                nip,
+                jabatan,
+                email,
+                no_hp,
+                status_akun,
+                password
+            )
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+            """, (
+                nama,
+                username,
+                nip,
+                jabatan,
+                email,
+                no_hp,
+                status,
+                password
+            ))
+
+            conn.commit()
+
+            st.success("Akun berhasil ditambahkan")
+            st.rerun()
+
+
+# ==========================
+# TAB 3 - EDIT
+# ==========================
+with tab3:
+
+    edited_df = st.data_editor(
+        df,
+        use_container_width=True
+    )
+
+    if st.button("Simpan Perubahan"):
+
+        edited_df.to_sql(
+            "pusat_akun",
+            conn,
+            if_exists="replace",
+            index=False
+        )
+
+        st.success("Data berhasil diperbarui")
+        st.rerun()
