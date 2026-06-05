@@ -1,0 +1,32 @@
+name: JivaCare Auto Validator
+
+on:
+  schedule:
+    # Mengatur jadwal otomatis (Jalan setiap jam pada menit ke-0)
+    - cron: '0 * * * *'
+  workflow_dispatch: # Tombol rahasia agar bisa kita klik jalankan manual kapan saja
+
+jobs:
+  run-validator:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Ambil Kode dari Repo
+      uses: actions/checkout@v4
+
+    - name: Siapkan Python Gratisan
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Instal Library Pendukung
+      run: |
+        pip install -r requirements.txt
+
+    - name: Jalankan Skrip Validator AI
+      env:
+        SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+        SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        HF_TOKEN: ${{ secrets.HF_TOKEN }}
+      run: |
+        python train_transformer_validator.py
