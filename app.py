@@ -657,7 +657,19 @@ if menu == "Dashboard Statistik":
                 hasil_df = hasil_df.add_prefix("json_")
                 df = pd.concat([df.drop(columns=['hasil_json']), hasil_df], axis=1)
                 
-            kolom_hapus = ['id','no_rm','skor_kelengkapan','status_validasi','created_at']
+            kolom_hapus = [
+                "id",
+                "no_rm",
+                "skor_kelengkapan",
+                "status_validasi",
+                "created_at",
+                "json_no_rm",
+                "json_dokter",
+                "json_diagnosis",
+                "json_resep_obat",
+                "json_nama_pasien",
+                "json_consent"
+            ]
             df = df.drop(columns=[c for c in kolom_hapus if c in df.columns])
             df = df.rename(columns={
                 'nama_pasien':'Nama Berkas',
